@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "273537979979",
+    "firebase_url": "https://dalati-2f156-default-rtdb.firebaseio.com",
+    "project_id": "dalati-2f156",
+    "storage_bucket": "dalati-2f156.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273537979979:android:60371ceb5b9cf1eb815fce",
+        "android_client_info": {
+          "package_name": "com.example.dalati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273537979979-ka8nd7estth3tt8nm2ph3kptm3b5fs59.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dalati",
+            "certificate_hash": "fc8780e7c8246d0351fba39bbc6b30886f38e0a4"
+          }
+        },
+        {
+          "client_id": "273537979979-qeolte245bnb17qrs6gqfn95fvokg44g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8w0lDQ2v-ylrtoR-cxAH4u_RdUxoG-oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273537979979-qeolte245bnb17qrs6gqfn95fvokg44g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "273537979979-mf1uv540llktdfl5940ufdhk6ava95qh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dalati"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
